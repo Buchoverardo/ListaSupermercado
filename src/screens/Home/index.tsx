@@ -46,7 +46,7 @@ export function Home() {
     <View style={styles.container}>
       <Text style={styles.eventName}>Vamos no mercado?</Text>
 
-      <Text style={styles.eventDate}>Não esqueça desta lista!</Text>
+      <Text style={styles.eventDate}>Não esqueça desta lista!!!</Text>
 
       <View style={styles.form}>
         <TextInput
